@@ -8,9 +8,9 @@ Title "SWD Multi Adapter"
 Date "2020-07-27"
 Rev "1.0"
 Comp "Michal Potrzebicz"
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "https://creativecommons.org/licenses/by-sa/4.0/"
+Comment2 "Attribution-ShareAlike 4.0 International License"
+Comment3 "Released under the Creative Commons"
 Comment4 ""
 $EndDescr
 $Comp
@@ -262,4 +262,11 @@ Wire Wire Line
 Connection ~ 4850 2700
 Wire Wire Line
 	4850 2700 4850 1700
+NoConn ~ 4700 4800
+NoConn ~ 4700 5000
+NoConn ~ 4700 5100
+NoConn ~ 5400 4800
+NoConn ~ 5400 4900
+NoConn ~ 5400 4200
+NoConn ~ 5400 3900
 $EndSCHEMATC
